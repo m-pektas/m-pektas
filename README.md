@@ -11,7 +11,7 @@ I'm working as a Computer Engineer at [syntonym](https://syntonym.com/)
 
 ## 🔭 I'm currently working on
 
-Generative Adversarial Networks, Object Tracking, Face Syntesis
+Generative Adversarial Networks, Multi Object Detection and Tracking, Face Syntesis
 
 ## 🧠 Know / Using
 
