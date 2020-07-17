@@ -9,6 +9,7 @@ My name is Muhammed Pektaş.
 I'm working as a Computer Engineer at <a href="https://syntonym.com/">  <img 
 src="https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png" alt="syntonym" width="100" height="30" /> </a>
 
+![GitHub labels](https://img.shields.io/github/labels/mhmddpkts/mhmddpkts/syntonym?label=syntonym&style=flat-square)
 
 ## 🔭 I'm currently working on
 
