@@ -6,7 +6,7 @@ My name is Muhammed Pektaş.
 
 ## 💼 Job
 
-I'm working as a Computer Engineer in [![](https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png=32x)](https://syntonym.com/)
+I'm working as a Computer Engineer in [![](https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png =32x)](https://syntonym.com/)
 
 ## 🔭 I'm currently working on
 
@@ -17,20 +17,7 @@ Generative Adversarial Networks, Object Tracking, Face Syntesis
 ⚡  Machine Learning
 🔭 Computer Vision
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/bash/bash.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/bash/bash.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
 
 ## 📚 Learning
 
