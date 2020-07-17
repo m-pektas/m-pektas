@@ -6,9 +6,9 @@ My name is Muhammed Pektaş.
 
 ## 💼 Job
 
-I'm working as a Computer Engineer in [![](https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png =250x250)](https://syntonym.com/)
+I'm working as a Computer Engineer in [![](https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png)]{:height="20px" width="20px"}(https://syntonym.com/)
 
-![test image size](https://syntonym.com/wp-content/uploads/2020/03/Asset-13@118x.png){:height="50px" width="50px"}
+
 
 ## 🔭 I'm currently working on
 
