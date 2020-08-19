@@ -32,7 +32,7 @@ src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.pn
 
 ## 📚 Learning
 
-Everythings about Deep Learning. Especially,  computer vision applications.
+Everythings about Machine Learning. Especially,  computer vision applications.
 
 ## 📫 How to reach me
 
