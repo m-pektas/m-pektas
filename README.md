@@ -2,7 +2,7 @@
 
 My name is Muhammed Pektaş.
 
-![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmddpkts&show_icons=true)
+![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-pektas&show_icons=true)
 
 ## 💼 Job
 
