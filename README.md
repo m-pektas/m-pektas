@@ -11,7 +11,7 @@ I'm working as a Computer Vision Engineer at [syntonym](https://syntonym.com/)
 
 ## 🔭 I'm currently working on
 
-Generative Adversarial Networks, Multi Object Detection and Tracking, Face Syntesis
+Generative Adversarial Networks(GANs), Object Detection and Tracking.
 
 
 ## 📫 How to reach me
